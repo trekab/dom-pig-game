@@ -19,7 +19,7 @@ body {
     background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.jpg);
     background-size: cover;
     background-position: center;
-    font-family: Lato;
+    font-family: Delius, cursive;
     font-weight: 300;
     position: relative;
     height: 100vh;
