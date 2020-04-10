@@ -42,5 +42,7 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 		//document.querySelector('.player-1-panel').classList.add('active');
 		document.querySelector('.player-0-panel').classList.toggle('active');
 		document.querySelector('.player-1-panel').classList.toggle('active');
+
+		document.querySelector('.dice').style.display = 'none';
 	}
 });
