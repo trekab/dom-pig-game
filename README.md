@@ -24,11 +24,11 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
-- git clone git@github.com:trekab/dom-pig-game.git
+- `git clone git@github.com:trekab/dom-pig-game.git`
 
 Then you browse to the folder and exucute the following commands
-- cd dom-pig-game
-- double click on the index.html file to open the game in your browser.
+- `cd dom-pig-game`
+- double click on the `index.html` file to open the game in your browser.
 
 ## Authors
 
