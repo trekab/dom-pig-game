@@ -30,6 +30,9 @@ Then you browse to the folder and exucute the following commands
 - `cd dom-pig-game`
 - double click on the `index.html` file to open the game in your browser.
 
+## Future feature
+- Enable users to alter winning score from 100 to a more desirable figure.
+
 ## Authors
 
 👤 **Treasure Kabareebe**
